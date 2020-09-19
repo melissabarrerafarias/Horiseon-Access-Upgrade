@@ -8,3 +8,6 @@ Additional changes have been made to improve the visitors visual experience.
 
 <img src="./assets/images/header.png"/>
 <img src="./assets/images/hero.png" />
+
+Click the link below to visit the website yourself!
+<link href="https://melissabarrerafarias.github.io/Horiseon-Access-Upgrade/">
